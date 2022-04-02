@@ -59,7 +59,7 @@ As melhores e mais atuais dicas de segurança da CMS Wordpress.
 * ### Banco de dados
 - [ ] Altere o prefixo das tabelas ([Tutorial](https://www.maketecheasier.com/the-safe-way-to-change-your-wordpress-database-table-prefix/))  
 - [ ] Configure backups semanais do seu banco de dados ([Backup WP](https://wordpress.org/plugins/backup-wp/), [WP DB Backup](https://wordpress.org/plugins/wp-db-backup/), ```etc.```)  
-- [ ]Use senhas fortes com letras maiúsculas e minúsculas, números e caracteres especiais no usuário do banco de dados ([Gerador de Senhas](https://passwordsgenerator.net/) ou [Password Meter](https://www.safetydetectives.com/password-meter/))  
+- [ ] Use senhas fortes com letras maiúsculas e minúsculas, números e caracteres especiais no usuário do banco de dados ([Gerador de Senhas](https://passwordsgenerator.net/) ou [Password Meter](https://www.safetydetectives.com/password-meter/))  
 * ### Hospedagem  
 - [ ] Contrate uma hospedagem de confiança```(Realize uma pesquisa sobre vazamentos e incidentes de segurança do provedor.)```  
 - [ ] Acesse seu servidor apenas por SFTP ou SSH  
