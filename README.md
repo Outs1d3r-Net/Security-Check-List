@@ -29,13 +29,13 @@ As melhores e mais atuais dicas de segurança da CMS Wordpress.
 * ### Pagina de login  
 - [ ] Bloqueie várias tentativas de login ([Login Lockdown](https://wordpress.org/plugins/login-lockdown/) ```ou``` [iThemes Security](https://wordpress.org/plugins/better-wp-security/))  
 - [ ] Ative autenticação de 2 etapas ([Google Authenticator](https://wordpress.org/plugins/google-authenticator/))  
-- [ ]Use um email para fazer login ao invés de um nome de usuario ([Force Login With Email](https://br.wordpress.org/plugins/force-login-with-email/))  
+- [ ] Use um email para fazer login ao invés de um nome de usuario ([Force Login With Email](https://br.wordpress.org/plugins/force-login-with-email/))  
 - [ ] Altere o endereço da sua página de login ([iThemes Security](https://wordpress.org/plugins/better-wp-security/) ```ou diretamente pelo .htaccess```)  
 - [ ] Remova links para sua página de login (```caso exista algum em seu tema```)  
 - [ ] Use senhas fortes com letras maiúsculas e minúsculas, números e caracteres especiais em todas as contas (```gerador de senhas``` [Aleatório](https://passwordsgenerator.net/)```ou``` [Baseado em palavras](https://www.safetydetectives.com/password-meter/))  
 - [ ] Altere sua senha periodicamente (```Recomendamos um intervalo de 30 dias porem é tolerável utilizar até 90 dias no maximo.```)  
 - [ ] Faça com que a mensagem de erro de login seja genérica (```user/pass```) ([Tutorial](https://gist.github.com/zergiocosta/72f87176b236ed0c6e13))  
-- [ ]esabilite a API REST do WP caso não esteja utilizando. ([Disable REST API](https://br.wordpress.org/plugins/disable-json-api/))  
+- [ ] esabilite a API REST do WP caso não esteja utilizando. ([Disable REST API](https://br.wordpress.org/plugins/disable-json-api/))  
 
 * ### Painel Administrativo  
 - [ ] Proteja a pasta wp-admin com senha ([Desbloqueie apenas os arquivos necessários](https://gist.github.com/rafaelfunchal/f9a41ea72d80600d753a))  
