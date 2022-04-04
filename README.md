@@ -7,12 +7,16 @@ Uma lista de segurança voltada para DevSecOps
 
 ##### Com essas dicas voce ficará muito mais seguro contra as ameaças que enfrentamos no dia a dia.  
 
+
 ## DevSecOps  
 Este contem treinamentos, laboratorios, conferencias, guias e muito mais sobre DevSecOps para voce aplicar em sua equipe.
 
 ---
-
-- [ ] Aplique treinamentos periodicos (```1 vez por mês```) de DevSecOps para seu time baseado no conteudo da Awesome DevSecOps ([Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops))  
+- [ ] O que é DevSecOps ? ([Introdução a DevSecOps](https://github.com/sottlmarek/DevSecOps#what-is-devsecops))  
+- [ ] Introdução ao SAST ([Owasp SAST Intro](https://owasp.org/www-community/Source_Code_Analysis_Tools))  
+- [ ] Aplique uma etapa para ferramentas de SAST em seu CI/CD ([Teste de segurança no codigo com SAST](https://github.com/sottlmarek/DevSecOps#sast))  
+- [ ] Exemplos de SAST Open Source ([Tutorial SAST open Source](https://www.breachlock.com/top-3-open-source-tools-for-sast/))
+- [ ] Aplique treinamentos periodicos (```1 vez por mês```) de DevSecOps para seu time baseado no conteudo da Awesome DevSecOps ([Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops#training))  
 
 ## Wordpress  
 As melhores e mais atuais dicas de segurança da CMS Wordpress.  
@@ -35,7 +39,7 @@ As melhores e mais atuais dicas de segurança da CMS Wordpress.
 - [ ] Use senhas fortes com letras maiúsculas e minúsculas, números e caracteres especiais em todas as contas (```gerador de senhas``` [Aleatório](https://passwordsgenerator.net/)```ou``` [Baseado em palavras](https://www.safetydetectives.com/password-meter/))  
 - [ ] Altere sua senha periodicamente (```Recomendamos um intervalo de 30 dias porem é tolerável utilizar até 90 dias no maximo.```)  
 - [ ] Faça com que a mensagem de erro de login seja genérica (```user/pass```) ([Tutorial](https://gist.github.com/zergiocosta/72f87176b236ed0c6e13))  
-- [ ] esabilite a API REST do WP caso não esteja utilizando. ([Disable REST API](https://br.wordpress.org/plugins/disable-json-api/))  
+- [ ] Desabilite a API REST do WP caso não esteja utilizando. ([Disable REST API](https://br.wordpress.org/plugins/disable-json-api/))  
 
 * ### Painel Administrativo  
 - [ ] Proteja a pasta wp-admin com senha ([Desbloqueie apenas os arquivos necessários](https://gist.github.com/rafaelfunchal/f9a41ea72d80600d753a))  
@@ -191,7 +195,3 @@ Elas tambem forneceram uma serie de ferramentas que combinadas com agendadores d
 ### Windows  
 - [ ] Utilize o ```pe-sieve``` periodicamente em busca de malware escondidos no sistema ([PE Sieve](https://github.com/hasherezade/pe-sieve))  
 - [ ] Rode o ```PEASS``` periodicamente (1 vez por mês) em busca de meios para escalar os privilegios em seu ambiente ([PEASS](https://github.com/carlospolop/PEASS-ng))  
-
-
-
-
