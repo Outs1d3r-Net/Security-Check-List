@@ -1,8 +1,6 @@
 # Security-Check-List
 Uma lista de segurança voltada para DevSecOps
 
-
-# Security Checklist
 ##### A equipe de segurança da informação preparou as mais atualizadas dicas de segurança para voce utilizar no seu dia-a-dia.  
 
 ##### Com essas dicas voce ficará muito mais seguro contra as ameaças que enfrentamos no dia a dia.  
