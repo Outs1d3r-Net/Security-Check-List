@@ -15,7 +15,7 @@ Este contem treinamentos, laboratorios, conferencias, guias e muito mais sobre D
 - [ ] Aplique uma etapa para ferramentas de SAST em seu CI/CD ([Teste de segurança no codigo com SAST](https://github.com/sottlmarek/DevSecOps#sast))  
 - [ ] Exemplos de SAST Open Source ([Tutorial SAST open Source](https://www.breachlock.com/top-3-open-source-tools-for-sast/))
 - [ ] Aplique treinamentos periodicos (```1 vez por mês```) de DevSecOps para seu time baseado no conteudo da Awesome DevSecOps ([Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops#training))  
-- [ ] Fique por dentro dos assuntos de segurança RUBY([RubySec](https://github.com/rubysec))  
+- [ ] Fique por dentro dos assuntos de segurança RUBY ([RubySec](https://github.com/rubysec))  
 
 ## Wordpress  
 As melhores e mais atuais dicas de segurança da CMS Wordpress.  
@@ -79,7 +79,8 @@ Siga as dicas abaixo para evitar vazamentos de segredos e vulnerabilidades em se
 ---
 * ### Segurança no Codigo  
 - [ ] Utilize o ```ShhGit``` para escanear o codigo em busca de segredos ([shhgit](https://github.com/eth0izzle/shhgit))  
-- [ ] Criptografe o codigo usando Git-Crypt ([Tutorial](https://buddy.works/guides/git-crypt))  
+- [ ] Criptografe o codigo usando Git-Crypt ([Tutorial](https://buddy.works/guides/git-crypt))
+- [ ] Audite seus arquivos Gemfile.lock usando o ```bundler-audit``` ([Bundler-Audit Online](https://audit.fastruby.io/))   
 - [ ] Utilize uma folha de dicas para agilizar a produção e/ou evitar erros de codigo ([DevCode CheatSheets](https://github.com/LeCoupa/awesome-cheatsheets))  
 - [ ] Utilize boas praticas de FrontEnd recomendadas por desenvolvedores de todo o mundo ([Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist))  
 - [ ] Siga as boas praticas em Node.JS ([Node Best Practices](https://github.com/goldbergyoni/nodebestpractices))  
@@ -181,7 +182,7 @@ Elas tambem forneceram uma serie de ferramentas que combinadas com agendadores d
 ---
 
 ### Ruby   
-- [ ] Audite seus arquivos Gemfile.lock usando o ```bundle-audit``` ([Bundle-Audit Online](https://audit.fastruby.io/))  
+- [ ] Audite seus arquivos Gemfile.lock usando o ```bundler-audit``` ([Bundler-Audit Online](https://audit.fastruby.io/))  
 
 ### Linux  
 - [ ] Configure o ```auditd``` ([AUDITORIA DO SISTEMA](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/security_guide/chap-system_auditing))  
