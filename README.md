@@ -15,6 +15,7 @@ Este contem treinamentos, laboratorios, conferencias, guias e muito mais sobre D
 - [ ] Aplique uma etapa para ferramentas de SAST em seu CI/CD ([Teste de segurança no codigo com SAST](https://github.com/sottlmarek/DevSecOps#sast))  
 - [ ] Exemplos de SAST Open Source ([Tutorial SAST open Source](https://www.breachlock.com/top-3-open-source-tools-for-sast/))
 - [ ] Aplique treinamentos periodicos (```1 vez por mês```) de DevSecOps para seu time baseado no conteudo da Awesome DevSecOps ([Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops#training))  
+- [ ] Fique por dentro dos assuntos de segurança RUBY([RubySec](https://github.com/rubysec))  
 
 ## Wordpress  
 As melhores e mais atuais dicas de segurança da CMS Wordpress.  
@@ -178,6 +179,9 @@ Estas dicas ajudaram a rastrear eventos que acontecem no sistema seja eventos de
 Elas tambem forneceram uma serie de ferramentas que combinadas com agendadores de tarefas como cron, fornerá uma visão geral de segurança em seu ambiente.
 
 ---
+
+### Ruby   
+- [ ] Audite seus arquivos Gemfile.lock usando o ```bundle-audit``` ([Bundle-Audit Online](https://audit.fastruby.io/))  
 
 ### Linux  
 - [ ] Configure o ```auditd``` ([AUDITORIA DO SISTEMA](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/security_guide/chap-system_auditing))  
